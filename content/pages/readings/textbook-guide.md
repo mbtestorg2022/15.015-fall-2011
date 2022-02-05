@@ -18,13 +18,173 @@ None of these three texts are required, and you can do well in the course withou
 
 The matching between book chapters and topics/class sessions is as follows (keeping in mind that there is overlap and in many of our classes we repeat concepts already covered, as a way to build a broader understanding).
 
-| SES # | ASSIGNMENTS | READINGS |
-| --- | --- | --- |
-| 1 | Global economy | "National Income Accounting and the Balance of Payments." Chapter 12 in \[K&O\]. |
-| 2 | Longer–run growth |  {{< br >}}{{< br >}} "Economic Growth I: Capital Accumulation and Population Growth." Chapter 7 in \[Mankiw\]. {{< br >}}{{< br >}} "Economic Growth II: Technology, Empirics, and Policy." Chapter 8 in \[Mankiw\]. {{< br >}}{{< br >}} Rodrik, Dani. "Trading in Illusions." Chapter 15 in \[K&K\]. {{< br >}}{{< br >}} Dollar, David, and Aart Kraay. "Spreading the Wealth." Chapter 17 in \[K&K\]. {{< br >}}{{< br >}}  |
-| 3 | Development policies | "Developing Countries: Growth, Crisis, and Reform." Chapter 22 in \[K&O\]. |
-| 3–4 | Internal and external balance |  {{< br >}}{{< br >}} "Output and the Exchange Rate in the Short Run." Chapter 16 in \[K&O\]. {{< br >}}{{< br >}} "Fixed Exchange Rates and Foreign Exchange Intervention." Chapter 17 in \[K&O\]. {{< br >}}{{< br >}} Kenen, Peter. "Fixed versus Floating Exchange Rates." Chapter 23 in \[K&K\]. {{< br >}}{{< br >}} Cooper, Richard. "Exchange Rate Choices." Chapter 24 in \[K&K\]. {{< br >}}{{< br >}}  |
-| 4–6 | ISLM model and the money multiplier |  {{< br >}}{{< br >}} "Money and Inflation." Chapter 4 in \[Mankiw\]. {{< br >}}{{< br >}} "Introduction to Economic Fluctuations." Chapter 9 in \[Mankiw\]. {{< br >}}{{< br >}} "Aggregate Demand I: Building the IS–LM Model." Chapter 10 in \[Mankiw\]. {{< br >}}{{< br >}} "Aggregate Demand II: Applying the IS–LM Model." Chapter 11 in \[Mankiw\]. {{< br >}}{{< br >}}  |
-| 4–9 | Central banks and currency crises |  {{< br >}}{{< br >}} Chiodo, Abbigail J., and Michael T. Owyang. "A Case Study of Currency Crisis: The Russian Default of 1998." Chapter 31 in \[K&K\]. {{< br >}}{{< br >}} Moreno, Ramon. "Learning from Argentina's Crisis." Chapter 32 in \[K&K\]. {{< br >}}{{< br >}} Spiegel, Mark. "Argentina's Currency Crisis: Lessons for Asia." Chapter 34 in \[K&K\]. {{< br >}}{{< br >}}  |
-| 7–8 | Theories of short–run exchange rate determination |  {{< br >}}{{< br >}} "The Open Economy Revisited: The Mundell–Fleming Model and the Exchange–Rate Regime." Chapter 12 in \[Mankiw\]. {{< br >}}{{< br >}} "Aggregate Supply and the Short–run Tradeoff Between Inflation and Unemployment." Chapter 13 in \[Mankiw\]. {{< br >}}{{< br >}} "Exchange Rates and the Foreign Exchange Market: An Asset Approach." Chapter 13 in \[K&O\]. {{< br >}}{{< br >}} "Money, Interest Rates, and Exchange Rates." Chapter 14 in \[K&O\]. {{< br >}}{{< br >}} Hopper, Gregory P. "What Determines the Exchange rate: Market Factors or Market Sentiment?" Chapter 22 in \[K&K\]. {{< br >}}{{< br >}}  |
-| 8 | East Asian financial crisis |  {{< br >}}{{< br >}} Radelet, Steven, and Jeffrey Sachs. "The Onset of the East Asian Financial Crisis." Chapter 33 in \[K&K\]. {{< br >}}{{< br >}} Moreno, Ramon. "Capital Controls and Emerging Markets." Chapter 35 in \[K&K\]. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Global economy
+{{< tdclose >}}
+{{< tdopen >}}
+"National Income Accounting and the Balance of Payments." Chapter 12 in \[K&O\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Longer–run growth
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Economic Growth I: Capital Accumulation and Population Growth." Chapter 7 in \[Mankiw\].
+
+"Economic Growth II: Technology, Empirics, and Policy." Chapter 8 in \[Mankiw\].
+
+Rodrik, Dani. "Trading in Illusions." Chapter 15 in \[K&K\].
+
+Dollar, David, and Aart Kraay. "Spreading the Wealth." Chapter 17 in \[K&K\].
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Development policies
+{{< tdclose >}}
+{{< tdopen >}}
+"Developing Countries: Growth, Crisis, and Reform." Chapter 22 in \[K&O\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–4
+{{< tdclose >}}
+{{< tdopen >}}
+Internal and external balance
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Output and the Exchange Rate in the Short Run." Chapter 16 in \[K&O\].
+
+"Fixed Exchange Rates and Foreign Exchange Intervention." Chapter 17 in \[K&O\].
+
+Kenen, Peter. "Fixed versus Floating Exchange Rates." Chapter 23 in \[K&K\].
+
+Cooper, Richard. "Exchange Rate Choices." Chapter 24 in \[K&K\].
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4–6
+{{< tdclose >}}
+{{< tdopen >}}
+ISLM model and the money multiplier
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Money and Inflation." Chapter 4 in \[Mankiw\].
+
+"Introduction to Economic Fluctuations." Chapter 9 in \[Mankiw\].
+
+"Aggregate Demand I: Building the IS–LM Model." Chapter 10 in \[Mankiw\].
+
+"Aggregate Demand II: Applying the IS–LM Model." Chapter 11 in \[Mankiw\].
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4–9
+{{< tdclose >}}
+{{< tdopen >}}
+Central banks and currency crises
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chiodo, Abbigail J., and Michael T. Owyang. "A Case Study of Currency Crisis: The Russian Default of 1998." Chapter 31 in \[K&K\].
+
+Moreno, Ramon. "Learning from Argentina's Crisis." Chapter 32 in \[K&K\].
+
+Spiegel, Mark. "Argentina's Currency Crisis: Lessons for Asia." Chapter 34 in \[K&K\].
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7–8
+{{< tdclose >}}
+{{< tdopen >}}
+Theories of short–run exchange rate determination
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"The Open Economy Revisited: The Mundell–Fleming Model and the Exchange–Rate Regime." Chapter 12 in \[Mankiw\].
+
+"Aggregate Supply and the Short–run Tradeoff Between Inflation and Unemployment." Chapter 13 in \[Mankiw\].
+
+"Exchange Rates and the Foreign Exchange Market: An Asset Approach." Chapter 13 in \[K&O\].
+
+"Money, Interest Rates, and Exchange Rates." Chapter 14 in \[K&O\].
+
+Hopper, Gregory P. "What Determines the Exchange rate: Market Factors or Market Sentiment?" Chapter 22 in \[K&K\].
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+East Asian financial crisis
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Radelet, Steven, and Jeffrey Sachs. "The Onset of the East Asian Financial Crisis." Chapter 33 in \[K&K\].
+
+Moreno, Ramon. "Capital Controls and Emerging Markets." Chapter 35 in \[K&K\].
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
