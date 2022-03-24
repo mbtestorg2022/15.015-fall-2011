@@ -34,9 +34,9 @@ The issues, short–term and long–term
 
 Kennedy, Robert E. "National Income Accounting." Harvard Business School Case. Harvard Business School Publishing. Case: 9–797–075, November 15, 1996.
 
-Bureau of Economic Analysis. "GDP Growth Accelerates in Fourth Quarter." U.S. Department of Commerce. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.bea.gov/newsreleases/national/gdp/gdphighlights.pdf))
+Bureau of Economic Analysis. "GDP Growth Accelerates in Fourth Quarter." U.S. Department of Commerce. ([PDF](http://www.bea.gov/newsreleases/national/gdp/gdphighlights.pdf))
 
-———. "GDP and the Economy: Third Estimates for the First Quarter of 2011." U.S. Department of Commerce, July 2011. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://apps.bea.gov/scb/pdf/2011/07%20July/0711_gdpecon.pdf))
+———. "GDP and the Economy: Third Estimates for the First Quarter of 2011." U.S. Department of Commerce, July 2011. ([PDF](https://apps.bea.gov/scb/pdf/2011/07%20July/0711_gdpecon.pdf))
 
 "[World Economic Outlook Update](http://www.imf.org/external/pubs/ft/weo/2011/update/02/index.htm)." _International Monetary Fund_, June 17, 2011.
 
@@ -68,7 +68,7 @@ Exchange rates for emerging markets
 
 Alfaro, Laura, Rafael Di Tella, et al. "China: To Float or Not to Float? (A)" Harvard Business School Case. Harvard Business School Publishing. Case: 9–706–021, March 2, 2006.
 
-Rigobon, Roberto. "The BB–NN Model." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB](http://jeanpierre.laffargue.pagesperso-orange.fr/teaching/Macroeconomie_du_developpement/bb-nn_model.pdf))
+Rigobon, Roberto. "The BB–NN Model." ([PDF - 1.1MB](http://jeanpierre.laffargue.pagesperso-orange.fr/teaching/Macroeconomie_du_developpement/bb-nn_model.pdf))
 
 Johnson, Simon. "[Brace for a Long Recovery From Global Credit Glut: Simon Johnson](http://www.bloomberg.com/news/2011-09-12/brace-for-a-long-recovery-from-credit-glut-commentary-by-simon-johnson.html)." _Bloomberg_, September 11, 2011.
 
@@ -170,7 +170,7 @@ Johnson, Simon, and James Kwak. "Other People's Oligarchs." Chapter 2 in _13 Ban
 Who is more prone to crisis now—Europe or the US?
 {{< tdclose >}}
 {{< tdopen >}}
-Boone, Peter, and Simon Johnson. "Europe on the Brink." _Peterson Institute for International Economics_, Policy Brief 11–13, July 2011. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF – 1.6MB](http://www.iie.com/publications/pb/pb11-13.pdf))
+Boone, Peter, and Simon Johnson. "Europe on the Brink." _Peterson Institute for International Economics_, Policy Brief 11–13, July 2011. ([PDF – 1.6MB](http://www.iie.com/publications/pb/pb11-13.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
