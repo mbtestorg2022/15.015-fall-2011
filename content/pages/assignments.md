@@ -13,12 +13,81 @@ The case write–ups should be brief, no more than 3 double–spaced pages. You 
 
 These case readings are also listed in the [Readings]({{< baseurl >}}/pages/readings) section of this course.
 
-| SES # | CASES |
-| --- | --- |
-| 1 | Kennedy, Robert E. "National Income Accounting." Harvard Business School Case. Harvard Business School Publishing. Case: 9–797–075, November 15, 1996. |
-| 3 | Alfaro, Laura, Rafael Di Tella, and Ingrid Vogel. "China: To Float or Not to Float? (A)" Harvard Business School Case. Harvard Business School Publishing. Case: 9–706–021, March 2, 2006. |
-| 4 | Alfaro, Laura, Rafael Di Tella, Ingrid Vogel, Renee Kim, and Mathew Johnson. "U.S. Current Account Deficit." Harvard Business School Case. Harvard Business School Publishing. Case: 9–706–002, July 6, 2005. |
-| 5 | Moss, David A., and Cole Bolton. "The Federal Reserve and the Banking Crisis of 1931." Harvard Business School Case. Harvard Business School Publishing. Case: 9–709–040, January 20, 2009. |
-| 6 | Alfaro, Laura, and Renee Kim. "The First Global Financial Crisis of the 21st Century." Harvard Business School Case. Harvard Business School Publishing. Case: 9–709–057, April 7, 2009. |
-| 7 | Schraede, Ulrike. "Japanese Financial System: From Postwar to the New Millennium." Harvard Business School Case. Harvard Business School Publishing. Case: 9–700–049, October 20, 1999. |
-| 8 | Alfaro, Laura, Rafael Di Tella, and Renee Kim. "Korea: After the 1997 Financial Crisis." Harvard Business School Case. Harvard Business School Publishing. Case: 9–707–042, March 20, 2007.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+CASES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Kennedy, Robert E. "National Income Accounting." Harvard Business School Case. Harvard Business School Publishing. Case: 9–797–075, November 15, 1996.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Alfaro, Laura, Rafael Di Tella, and Ingrid Vogel. "China: To Float or Not to Float? (A)" Harvard Business School Case. Harvard Business School Publishing. Case: 9–706–021, March 2, 2006.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Alfaro, Laura, Rafael Di Tella, Ingrid Vogel, Renee Kim, and Mathew Johnson. "U.S. Current Account Deficit." Harvard Business School Case. Harvard Business School Publishing. Case: 9–706–002, July 6, 2005.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Moss, David A., and Cole Bolton. "The Federal Reserve and the Banking Crisis of 1931." Harvard Business School Case. Harvard Business School Publishing. Case: 9–709–040, January 20, 2009.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Alfaro, Laura, and Renee Kim. "The First Global Financial Crisis of the 21st Century." Harvard Business School Case. Harvard Business School Publishing. Case: 9–709–057, April 7, 2009.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Schraede, Ulrike. "Japanese Financial System: From Postwar to the New Millennium." Harvard Business School Case. Harvard Business School Publishing. Case: 9–700–049, October 20, 1999.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Alfaro, Laura, Rafael Di Tella, and Renee Kim. "Korea: After the 1997 Financial Crisis." Harvard Business School Case. Harvard Business School Publishing. Case: 9–707–042, March 20, 2007.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
